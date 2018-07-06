@@ -1,0 +1,5 @@
+# Copy the contents of this file to your .gitignore file
+
+# Visual Regression Testing Images
+*/**/screenshots/diff
+*/**/screenshots/latest
