@@ -1,7 +1,7 @@
 // Copy the scripts below to your package.json file
 // If you alread have a "test" script, you can call this whatever you want
 // e.g. `"wdio": "wdio"` would let you run `npm run wdio` instead of `npm test`
-// If you rename it, update line 40 in the README.md to match
+// If you rename it, update the "Running Tests" section in the VISREG-README.md file to match
 
 {
     "scripts": {
