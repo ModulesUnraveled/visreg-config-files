@@ -20,7 +20,7 @@ Details in [the included .gitignore](https://github.com/ModulesUnraveled/visreg-
 Copy all of the included config files (and optionally the associated markdown files) to your repo. These should retain their folder structure and look like this when you're done:
 
 ```
-root
+project
 │    VISREG-README.md
 │    wdio.conf.js
 │    wdio.conf.md
