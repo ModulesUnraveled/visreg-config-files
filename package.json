@@ -4,8 +4,8 @@
 // If you rename it, update line 40 in the README.md to match
 
 {
-	"scripts": {
-		"test": "wdio",
-		"test:quick": "wdio wdio.conf.quick.js"
-	}
+    "scripts": {
+        "test": "wdio",
+        "test:quick": "wdio wdio.conf.quick.js"
+    }
 }
