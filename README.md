@@ -38,7 +38,7 @@ project
 ```
 
 # Update the config file
-- Update the `wdio.conf.js` file as indicated in `wdio.conf.md`.
+- Update the `wdio.conf.js` file as indicated in [the included wdio.conf.md](https://github.com/ModulesUnraveled/visreg-config-files/blob/master/wdio.conf.md).
 
 # Defining new browsers/OSs
 There's a configuration tool at https://www.browserstack.com/automate/capabilities
