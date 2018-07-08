@@ -37,7 +37,7 @@ project
 │         │    viewports.md
 ```
 
-# Update the config file
+# Update the WebdriverIO config file
 - Update the `wdio.conf.js` file as indicated in [the included wdio.conf.md](https://github.com/ModulesUnraveled/visreg-config-files/blob/master/wdio.conf.md).
 
 # Defining new browsers/OSs
