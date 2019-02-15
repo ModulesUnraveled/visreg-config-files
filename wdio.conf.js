@@ -58,20 +58,17 @@ exports.config = {
         os: 'Windows',
         os_version: '10',
         browserName: 'chrome',
-        'browserstack.local': true
     }, {
         project: 'My Awesome Site',
         os: 'Windows',
         os_version: '10',
         browserName: 'IE',
         browser_version: '11.0',
-        'browserstack.local': true
     }, {
         project: 'My Awesome Site',
         os: 'Windows',
         os_version: '10',
         browserName: 'Firefox',
-        'browserstack.local': true
     }],
 
     //////////////////////
