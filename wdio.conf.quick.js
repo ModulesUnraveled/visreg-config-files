@@ -8,7 +8,6 @@ var localConfig = Object.assign(prodConfig, {
         os: 'Windows',
         os_version: '10',
         browserName: 'chrome',
-        'browserstack.local': true
     }],
 });
 
