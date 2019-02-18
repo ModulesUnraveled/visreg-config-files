@@ -1,4 +1,6 @@
 # Copy the contents of this file to your .gitignore file
+node_modules
+package-lock.json
 
 # Visual Regression Testing Images
 */**/screenshots/diff
