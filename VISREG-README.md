@@ -1,6 +1,6 @@
 <!--
-	// This is an example readme that you can add to your project for future developers.
-	// These are the steps required to contribute to/utlize visual regression testing once the setup steps in the `Visreg-setup.md` file are completed.
+  // This is an example readme that you can add to your project for future developers.
+  // These are the steps required to contribute to/utlize visual regression testing once the setup steps in the `Visreg-setup.md` file are completed.
 -->
 
 # Install Java command line tools
